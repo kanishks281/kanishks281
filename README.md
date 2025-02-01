@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/kanishks281"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+B.Tech+From+IIT+Patna,;Competitive+Programmer,;Web+Developer,;ML+Enthusiast"></a>
 </p>
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 ## 🚀 About Me
 I am a **Competitive Programmer & Full-Stack Developer** passionate about problem-solving, software development, and learning new technologies. Currently, I am a **3rd-year Electrical and Electronics Engineering (EEE) student at IIT Patna** with a strong interest in **Machine Learning**, **Web Development**, and **Software Engineering**.
