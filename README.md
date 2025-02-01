@@ -11,8 +11,8 @@ I am a **Competitive Programmer & Full-Stack Developer** passionate about proble
 - **Competitive Programming:** C++, Data Structures & Algorithms, Codeforces (Specialist), CodeChef (3⭐)
 - **Development:** Full-Stack Web Development (React.js, Next.js, Node.js, Express.js, MongoDB, TailwindCSS)
 - **Machine Learning:** Scikit-Learn, Pandas, NumPy, Matplotlib, CNNs
-- **Databases:** MongoDB, Microsoft SQL Server
-- **Other Tools:** Git, Docker, AWS, Figma
+- **Databases:** MongoDB
+- **Other Tools:** Git,Figma
 
 ## 🏆 Notable Achievements
 - **Gold Medalist** 🏅 in Inter IIT Tech Meet 12 - Jaguar Land Rover Problem Statement
@@ -32,7 +32,7 @@ I am a **Competitive Programmer & Full-Stack Developer** passionate about proble
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanishk-singhal-4139581ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanishk-singhal-4139581ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/kanishk-singhal-4139581ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanishk-singhal-4139581ba/" height="30" width="40" /></a>
 <a href="https://instagram.com/kanishks281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanishks281" height="30" width="40" /></a>
 </p>
 
