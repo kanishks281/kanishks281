@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Kanishk Singhal</h1>
-<h3 align="center">Passionate about Problem-Solving | Competitive Programmer & Full-Stack Developer 🚀</h3>
+<p align="center">
+  <a href="https://github.com/kanishks281"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+B.Tech+From+IIT+Patna,;Competitive+Programmer,;Web+Developer,;ML+Enthusiast"></a>
+</p>
+## 🚀 About Me
+I am a **Competitive Programmer & Full-Stack Developer** passionate about problem-solving, software development, and learning new technologies. Currently, I am a **3rd-year Electrical and Electronics Engineering (EEE) student at IIT Patna** with a strong interest in **Machine Learning**, **Web Development**, and **Software Engineering**.
 
+## 🔥 Skills & Technologies
+- **Competitive Programming:** C++, Data Structures & Algorithms, Codeforces (Specialist), CodeChef (3⭐)
+- **Development:** Full-Stack Web Development (React.js, Next.js, Node.js, Express.js, MongoDB, TailwindCSS)
+- **Machine Learning:** Scikit-Learn, Pandas, NumPy, Matplotlib, CNNs
+- **Databases:** MongoDB, Microsoft SQL Server
+- **Other Tools:** Git, Docker, AWS, Figma
+
+## 🏆 Notable Achievements
+- **Gold Medalist** 🏅 in Inter IIT Tech Meet 12 - Jaguar Land Rover Problem Statement
+- **Cleared PRMO, RMO, and performed well in INMO**
+- **Solved 300+ DSA Problems** across various platforms
+- **Developed multiple web-based applications** with real-world impact
+
+## 🔭 Current Projects
+- **Seating Arrangement System:** A Flask-based application for generating optimized seating plans for university exams.
+- **ShortyURL:** A URL shortener with analytics and user authentication.
+- **News App:** A React-based news aggregator using the GNews API.
+- **Resume Matcher:** A Python-based tool that compares resumes with job descriptions and provides match scores.
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishks281&label=Profile%20views&color=0e75b6&style=flat" alt="kanishks281" /> </p>
 
 - 📫 How to reach me **kanishks281@gmail.com**
