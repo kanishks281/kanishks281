@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/kanishks281"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+B.Tech+From+IIT+Patna,;Competitive+Programmer,;Web+Developer,;ML+Enthusiast"></a>
 </p>
+
 ## 🚀 About Me
 I am a **Competitive Programmer & Full-Stack Developer** passionate about problem-solving, software development, and learning new technologies. Currently, I am a **3rd-year Electrical and Electronics Engineering (EEE) student at IIT Patna** with a strong interest in **Machine Learning**, **Web Development**, and **Software Engineering**.
 
@@ -23,7 +24,7 @@ I am a **Competitive Programmer & Full-Stack Developer** passionate about proble
 - **ShortyURL:** A URL shortener with analytics and user authentication.
 - **News App:** A React-based news aggregator using the GNews API.
 - **Resume Matcher:** A Python-based tool that compares resumes with job descriptions and provides match scores.
-- 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishks281&label=Profile%20views&color=0e75b6&style=flat" alt="kanishks281" /> </p>
 
 - 📫 How to reach me **kanishks281@gmail.com**
