@@ -5,7 +5,7 @@
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 ## 🚀 About Me
-I am a **Competitive Programmer & Full-Stack Developer** passionate about problem-solving, software development, and learning new technologies. Currently, I am a **3rd-year Electrical and Electronics Engineering (EEE) student at IIT Patna** with a strong interest in **Machine Learning**, **Web Development**, and **Software Engineering**.
+I am a **Competitive Programmer & Full-Stack Developer** passionate about problem-solving, software development, and learning new technologies. Currently, I am a **3rd-year B.Tech student at IIT Patna** with a strong interest in **Machine Learning**, **Web Development**, and **Software Engineering**.
 
 ## 🔥 Skills & Technologies
 - **Competitive Programming:** C++, Data Structures & Algorithms, Codeforces (Specialist), CodeChef (3⭐)
@@ -32,8 +32,9 @@ I am a **Competitive Programmer & Full-Stack Developer** passionate about proble
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/kanishk-singhal-4139581ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanishk-singhal-4139581ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanishk-singhal-4139581ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk-singhal-4139581ba" height="30" width="40" /></a>
 <a href="https://instagram.com/kanishks281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanishks281" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kanishks281" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanishks281" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
