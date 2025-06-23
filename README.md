@@ -18,7 +18,7 @@ I am a **Competitive Programmer & Full-Stack Developer** passionate about proble
 - **Gold Medalist** 🏅 in Inter IIT Tech Meet 12 - Jaguar Land Rover Problem Statement
 - **Cleared PRMO, RMO, and performed well in INMO**
 - **Solved 300+ DSA Problems** across various platforms
-- **Specialist on Codeforces and 3 star on Codecchef**
+- **Specialist on Codeforces and 3 star on Codechef**
 - **Developed multiple web-based applications** with real-world impact
 
 ## 🔭 Current Projects
