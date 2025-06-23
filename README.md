@@ -21,9 +21,9 @@ I am a **Competitive Programmer & Full-Stack Developer** passionate about proble
 - **Developed multiple web-based applications** with real-world impact
 
 ## 🔭 Current Projects
-- **Seating Arrangement System:** A Flask-based application for generating optimized seating plans for university exams.
-- **ShortyURL:** A URL shortener with analytics and user authentication.
-- **News App:** A React-based news aggregator using the GNews API.
+- **Medinest:** Built a full-stack telemedicine platform with Next.js and React, enabling real-time video consultations, appointment booking, and multi-tenant access with secure authentication.
+- **Bill Buddy:** Developed a full-stack expense tracking app using Next.js and Convex, supporting real-time group expense management, smart summaries, and serverless backend workflows.
+- **Plant Disease Prediction System:** Developed a CNN model using TensorFlow/Keras that achieved 87.8% accuracy in classifying 38 plant diseases from 50K+ images, automating early crop diagnosis.
 - **Resume Matcher:** A Python-based tool that compares resumes with job descriptions and provides match scores.
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishks281&label=Profile%20views&color=0e75b6&style=flat" alt="kanishks281" /> </p>
