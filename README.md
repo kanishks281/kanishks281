@@ -5,7 +5,7 @@
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 ## 🚀 About Me
-I am a **Competitive Programmer & Full-Stack Developer** passionate about problem-solving, software development, and learning new technologies. Currently, I am a **3rd-year B.Tech student at IIT Patna** with a strong interest in **Machine Learning**, **Web Development**, and **Software Engineering**.
+I am a **Competitive Programmer & Full-Stack Developer** passionate about problem-solving, software development, and learning new technologies. Currently, I am a **final year B.Tech student at IIT Patna** with a strong interest in **Machine Learning**, **Web Development**, and **Software Engineering**.
 
 ## 🔥 Skills & Technologies
 - **Competitive Programming:** C++, Data Structures & Algorithms, Codeforces (Specialist), CodeChef (3⭐)
