@@ -24,6 +24,7 @@ I am a **Competitive Programmer & Full-Stack Developer** passionate about proble
 ## 🔭 Current Projects
 - **Medinest:** Built a full-stack telemedicine platform with Next.js and React, enabling real-time video consultations, appointment booking, and multi-tenant access with secure authentication.
 - **Bill Buddy:** Developed a full-stack expense tracking app using Next.js and Convex, supporting real-time group expense management, smart summaries, and serverless backend workflows.
+- **Customer Support Agent:** Developed a AI-powered customer support agent that auto-understands tickets, fetches relevant data via tools and memory, and generates contextual draft replies through a FastAPI + LangChain backend with a Streamlit UI.
 - **Plant Disease Prediction System:** Developed a CNN model using TensorFlow/Keras that achieved 87.8% accuracy in classifying 38 plant diseases from 50K+ images, automating early crop diagnosis.
 - **Resume Matcher:** A Python-based tool that compares resumes with job descriptions and provides match scores.
   
